@@ -80,7 +80,6 @@ li a:hover {
 }
 
 #offerCont{
-    margin: 0 auto;
     width: 100%;
     text-align: center;
 }
@@ -94,3 +93,42 @@ li a:hover {
 .offers img{
     width: 5rem;
 }
+
+#infCont {
+    text-align: left;
+    margin-top: 5rem;
+    width: 100%;
+}
+
+.information{
+    vertical-align: top;
+    display: inline-block;
+    width: 38%;
+    margin-right: 5rem;
+}
+
+.information h3 {
+    color: white;
+    background-color: cadetblue;
+    width: 15rem;
+    padding: .5rem 1rem;
+}
+
+footer {
+    background-color: aliceblue;
+    text-align: left;
+    width: 100%;
+    margin-top: 3rem;
+    padding: 3rem 0;
+}
+
+footer img {
+    height: 1.5rem;
+    margin-left: 2rem;
+    vertical-align: middle; 
+}
+
+footer p {
+    display: inline-block;
+}
+
